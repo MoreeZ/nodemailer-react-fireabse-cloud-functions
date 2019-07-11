@@ -13,7 +13,8 @@
     "react-icons": "^3.7.0",
     "react-responsive": "^7.0.0",
     "react-scripts": "3.0.1",
-    "lodash.template": ">=4.5.0"
+    "lodash.template": ">=4.5.0",
+    "lodash": ">=4.17.13"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,7 +37,8 @@
       "last 1 safari version"
     ],
     "devDependencies": {
-      "lodash.template": ">=4.5.0"
+      "lodash.template": ">=4.5.0",
+      "lodash": ">=4.17.13"
     }
   }
 }
